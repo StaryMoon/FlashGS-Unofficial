@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/FlashGS-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering"
+  authors:
+  - family-names: Feng
+    given-names: Guofeng
+  - family-names: Chen
+    given-names: Siyan
+  - family-names: Fu
+    given-names: Rong
+  - family-names: Liao
+    given-names: Zimu
+  - family-names: Wang
+    given-names: Yi
+  - family-names: Liu
+    given-names: Tao
+  - family-names: Hu
+    given-names: Boni
+  - family-names: Xu
+    given-names: Linning
+  - family-names: Pei
+    given-names: Zhilin
+  - family-names: Li
+    given-names: Hengjie
+  - family-names: Li
+    given-names: Xiuhong
+  - family-names: Sun
+    given-names: Ninghui
+  - family-names: Zhang
+    given-names: Xingcheng
+  - family-names: Dai
+    given-names: Bo
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Feng_FlashGS_Efficient_3D_Gaussian_Splatting_for_Large-scale_and_High-resolution_Rendering_CVPR_2025_paper.html"
